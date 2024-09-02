@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.folder-structure {
+  height: 20px;
+  width: 80px;
+  background: grey;
+  margin-bottom: 10px;
+  margin-left: 20px;
+}
+.file-structure {
+  margin-left: 20px;
+}
